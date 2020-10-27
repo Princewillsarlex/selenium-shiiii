@@ -15,6 +15,14 @@ An example of a Django project for selenium test implementation.
     firefox: https://github.com/mozilla/geckodriver/releases
     chrome:  https://chromedriver.chromium.org/home
 
+### Add the Drivers to your system path
+
+* For Mac: copy the downloaded chrome and firefox drivers and paste it to the path below. 
+
+    usr/local/bin
+
+* For windows: add the location of the chrome and firefox drivers to your environmental path.
+
 ### Usage
 
 Run the server first using 
