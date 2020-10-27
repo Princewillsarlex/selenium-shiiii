@@ -10,6 +10,11 @@ An example of a Django project for selenium test implementation.
 
     pip install -r requirements.txt
 
+### Download The Drivers
+
+    firefox: https://github.com/mozilla/geckodriver/releases
+    chrome:  https://chromedriver.chromium.org/home
+
 ### Usage
 
 Run the server first using 
