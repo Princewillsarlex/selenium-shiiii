@@ -14,9 +14,9 @@ An example of a Django project for selenium test implementation.
 
 Run the server first using 
 
-* python manage.py runserver 8750
+    python manage.py runserver 8750
 
 Then run the selinum test using
 
-* python manage.py test
+    python manage.py test
 
