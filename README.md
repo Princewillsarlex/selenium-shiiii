@@ -21,7 +21,7 @@ Run the server first using
 
     python manage.py runserver 8750
 
-Then run the selinum test using
+Then run the selinum test in a seperate terminal using
 
     python manage.py test
 
